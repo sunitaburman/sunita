@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "files": ["mylibrary/functions.php"],
+        
+        "classmap": [
+        "classmap"
+        ]
+    }
+}
