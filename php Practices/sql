@@ -1,0 +1,9 @@
+sql - structural query language.
+in this we are going to see mysql 
+it is a database like that lot of db is there mysql , oracle sql ,perl sql,mango db
+database - storing data in some storage device.
+dml ddl
+data manipulation language 
+- in dml we have insert , update , delete,drop
+data definition language
+create , alter , truncate., select 
