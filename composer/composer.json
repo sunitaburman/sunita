@@ -1,0 +1,13 @@
+{
+
+	"autloading" : {
+
+		"files" : ["mylibrary/functions.php"],
+
+		"classmap" : [
+
+			"classmap"
+
+		]
+	}
+}
